@@ -44,8 +44,37 @@ Obteniendo los siguientes resultados, que están expresados en forma polar y rec
 
 ![5](https://user-images.githubusercontent.com/99141342/155644020-42bfcea2-0311-473f-ae2d-056c9cb8541f.PNG)
 
+Los resultados anteriores deben ser verificados en una calculadora que permita realizar este tipo de operaciones con números imaginarios, con lo que se tiene:
+
+- De la conversión de coordenadas rectangulares a coordenadas polares:
+
+![ejer_1](https://user-images.githubusercontent.com/99141342/155649315-cff3c4d9-e4f5-4636-8871-2753ee417530.png)
+
+![ejer_2](https://user-images.githubusercontent.com/99141342/155649321-b3515799-3f7d-4866-80f5-89cc258ffb46.png)
+
+![ejer_3](https://user-images.githubusercontent.com/99141342/155649459-ee8a4ab3-5266-437f-8e10-af1fa15f3919.png)
+
+![ejer_4](https://user-images.githubusercontent.com/99141342/155649462-c80f9816-f48c-42c7-ac47-a6a0b8f96673.png)
 
 
+
+![ejer_5](https://user-images.githubusercontent.com/99141342/155649577-142ac7d8-b692-4b21-b481-c3e78b63a785.png)
+
+![ejer_6](https://user-images.githubusercontent.com/99141342/155649591-7c9717a6-f7d4-4614-9d2a-5994a7e97335.png)
+
+![ejer_7](https://user-images.githubusercontent.com/99141342/155649599-8077542e-2426-4657-a9c8-6a5f62248917.png)
+
+![ejer_8](https://user-images.githubusercontent.com/99141342/155649605-82c960f2-07c9-4a95-979a-6cba38e274dc.png)
+
+
+
+- De la miscelánea de ejercicios:
+
+![ejer_9_](https://user-images.githubusercontent.com/99141342/155649543-ac61ed27-45ab-46eb-bbb2-aaec9622b561.png)
+
+![ejer_10_](https://user-images.githubusercontent.com/99141342/155649550-a1df4607-6535-4505-92dc-12632c2b13bd.png)
+
+![ejer_11_](https://user-images.githubusercontent.com/99141342/155649559-89ac5404-b62c-4e30-b79f-480a45fc8bf9.png)
 
 
 ## 4) Análisis de Resultados
