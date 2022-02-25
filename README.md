@@ -114,7 +114,11 @@ Los resultados anteriores deben ser verificados en una calculadora que permita r
 
 ## 4) Análisis de Resultados
 
-En la realización de ejercicios a mano, se obttuvieron las mismas respuestas que proporcionó la calculadora.
+En la realización de ejercicios a mano, se obtuvieron las mismas respuestas que proporcionó la calculadora científica.
+
+Se puede apreciar que en el proceso de realización de los ejercicios, el orden y el tipo de proceso puede cambiar, por lo que se puede usar cualquier tipo de coordenadas para realizar los ejercicios propuestos, porque se debe llegar a la misma respuesta al terminar de realizar las operaciones.
+
+En la realización de la miscelánea de operaciones, se demostró que para la suma y resta  es más fácil manejar las coordenadas rectangulares, mientras que para realizar la multiplicación y la división, es más fácil manejar las coordenadas polares, por lo que se deben convertir de coordenadas polares a rectangulares y viceversa, todas las veces que sean necesarias. 
 
 ## 5) Video
 
