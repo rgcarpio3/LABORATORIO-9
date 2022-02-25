@@ -132,7 +132,7 @@ Dentro de las operaciones entre fasores, se destaca que para la suma y resta es 
 
 ## 5) Video
 
-
+https://youtu.be/VM0Tk1tEIwk
 
 ## 6) Conclusiones
 
