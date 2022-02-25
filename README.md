@@ -36,7 +36,7 @@ El valor de j es igual a sqrt(-1), por lo que se encuentra a 90° del eje positi
 
 ### Representación de ondas sinusoidales
 
-Los fasores son una forma gráfica de representar cantidades complejas dentro del plano, con el que se pueden realizar operaciones elementales tales como: suma, resta, multiplicación y división.
+Los fasores son una forma gráfica de representar cantidades complejas dentro del plano, con el que se pueden realizar operaciones elementales tales como: suma, resta, multiplicación y división. Gracias a estas representaciones gráficas, se pueden realizar estudios de óptica, telecomunicaciones, acústica y más.
 
 - Suma y resta: Estas operaciones son más fáciles de realizar cuando los fasores se encuentran en coordenadas rectangulares, porque se encuentran descompuestos en los valores de sus componentes, y se suman los valores reales entre ellos, y de igual manera los valores imaginarios.
 
@@ -142,7 +142,7 @@ Dentro de las operaciones entre fasores, se destaca que para la suma y resta es 
 
 ## 7) Bibliografía
 
-
+Gago, A. (2011, agosto). Uso de Fasores. Universidad Nacional del Sur. http://lcr.uns.edu.ar/fvc/NotasDeAplicacion/FVC-AdrianGago.pdf
 
 Floyd, T. (2007). Circuitos RC. En LM Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 406-465). Pearson Educación.
 
