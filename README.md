@@ -4,6 +4,8 @@
 
 ### 1.1) Objetivo General
 
+
+
 ### 1.2) Objetivos Específicos
 
 ## 2) Marco Teórico
@@ -131,4 +133,6 @@ Dentro de las operaciones entre fasores, se destaca que para la suma y resta es 
 ## 7) Bibliografía
 
 
+
+Floyd, T. (2007). Circuitos RC. En LM Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 406-465). Pearson Educación.
 
