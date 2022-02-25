@@ -4,9 +4,15 @@
 
 ### 1.1) Objetivo General
 
-
+Realizar operaciones con números complejos, tanto en coordenadas rectangulares y coordenadas polares, para obtener diferentes formas de solución de estas operaciones
 
 ### 1.2) Objetivos Específicos
+
+- Realizar operaciones elementales con números complejos, tales como suma, resta, multiplicación y división, resolviendo paso a paso cada una de ellas.
+
+- Realizar la conversión de coordenadas polares y coordenadas rectangulares, para facilitar la resolución de los ejercicios propuestos.
+
+- Realizar la comprobación de las respuestas obtenidas, mediante el uso de una calculadora científica.
 
 ## 2) Marco Teórico
 
@@ -128,7 +134,11 @@ Dentro de las operaciones entre fasores, se destaca que para la suma y resta es 
 
 ## 6) Conclusiones
 
+- Las operaciones entre números complejos se las realiza minuciosamente, tomando en cuenta que se deben operar entre números reales y entre números complejos.
 
+- La transformación de coordenadas polares a coordenadas rectangulares y viceversa, es elemental para poder resolver este tipo de ejercicios.
+
+- La calculadora científica proporcionó una respuesta inmediata de los ejercicios propuestos, en donde los valores en ambos procesos coincidieron
 
 ## 7) Bibliografía
 
