@@ -57,6 +57,8 @@ Existen dos formas de  representar cantidades complejas:
 
 ### Mapa Conceptual 
 
+![mapa](https://user-images.githubusercontent.com/99141342/155752656-ad04214d-967a-4c9a-bd7c-6684c09c0a7e.jpg)
+
 
 
 ## 3) Explicación del Procedimiento
